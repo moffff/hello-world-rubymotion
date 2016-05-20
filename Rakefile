@@ -14,5 +14,4 @@ Motion::Project::App.setup do |app|
 
   app.api_version = "21"
   app.target_api_version = "21"
-  app.archs += ['x86']
 end
